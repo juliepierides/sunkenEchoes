@@ -1,7 +1,7 @@
 # Sunken Echoes
 An Echolocation Mic-Based Retro Game
 
-![alt text] (https://github.com/juliepierides/sunkenEchoes/blob/master/sunkenEchoes_image.png)
+![alt text] (sunkenEchoes_image.png)
 
 ## Summary
 The game we've created is called Sunken Echoes. We wanted to make a game with unconventional controls with a great story. The main character must find out what really happened in this underwater town by exploring. There is a story that you must uncover by exploring different areas and defeating different bosses.
